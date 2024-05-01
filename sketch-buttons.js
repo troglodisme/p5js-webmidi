@@ -65,6 +65,7 @@ function sendMidiControlChange(ccNumber, ccValue) {
     myOutput.sendControlChange(ccNumber, ccValue);
     console.log('CC', ccNumber, 'Value', ccValue);
   }
+  
 }
 
 function toggleButton(index, ccNumber) {
