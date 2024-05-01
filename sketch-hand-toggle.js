@@ -1,6 +1,6 @@
 /*
 
-  Buttons to Midi CC example
+  Buttons, sliders and hand pose to web midi example in p5.js
 
 */
 
